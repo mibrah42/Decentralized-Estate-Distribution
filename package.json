@@ -4,7 +4,7 @@
     "version": "4.1.1",
     "description": "Creative is a stylish one page HTML theme for Bootstrap.",
     "scripts": {
-        "start": "nodemon app.js"
+        "start": "node app.js"
     },
     "keywords": [
         "css",
